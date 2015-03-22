@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocServer", "Soc\Soc.vcproj", "{40022D5C-8E93-41C1-8A56-C1529C5AF2F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocClient", "SocClient\SocClient.vcproj", "{0FF3E558-6360-457F-B992-DD38290F4F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40022D5C-8E93-41C1-8A56-C1529C5AF2F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40022D5C-8E93-41C1-8A56-C1529C5AF2F6}.Debug|Win32.Build.0 = Debug|Win32
+		{40022D5C-8E93-41C1-8A56-C1529C5AF2F6}.Release|Win32.ActiveCfg = Release|Win32
+		{40022D5C-8E93-41C1-8A56-C1529C5AF2F6}.Release|Win32.Build.0 = Release|Win32
+		{0FF3E558-6360-457F-B992-DD38290F4F95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FF3E558-6360-457F-B992-DD38290F4F95}.Debug|Win32.Build.0 = Debug|Win32
+		{0FF3E558-6360-457F-B992-DD38290F4F95}.Release|Win32.ActiveCfg = Release|Win32
+		{0FF3E558-6360-457F-B992-DD38290F4F95}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
